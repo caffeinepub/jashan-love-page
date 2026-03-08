@@ -429,7 +429,7 @@ export default function App() {
           }}
         >
           <img
-            src="/assets/generated/photo-placeholder-1.dim_300x380.jpg"
+            src="/assets/uploads/IMG_20251031_185502_581-1.jpg"
             alt=""
             className="w-full h-full object-cover"
           />
@@ -446,7 +446,7 @@ export default function App() {
           }}
         >
           <img
-            src="/assets/generated/photo-placeholder-2.dim_300x380.jpg"
+            src="/assets/uploads/IMG_20250716_144735-3.jpg"
             alt=""
             className="w-full h-full object-cover"
           />
@@ -463,7 +463,7 @@ export default function App() {
           }}
         >
           <img
-            src="/assets/generated/photo-placeholder-3.dim_300x380.jpg"
+            src="/assets/uploads/Picsart_26-01-04_11-17-46-706-4.jpg"
             alt=""
             className="w-full h-full object-cover"
           />
@@ -635,7 +635,7 @@ export default function App() {
           />
 
           <PhotoFrame
-            src="/assets/generated/photo-placeholder-1.dim_300x380.jpg"
+            src="/assets/uploads/IMG_20251031_185502_581-1.jpg"
             label="💕 Jashan's Photo 1 💕"
             stickers={["🌸", "✨", "💕", "🎀"]}
             frameRef={frame1Ref}
@@ -643,7 +643,7 @@ export default function App() {
           />
 
           <PhotoFrame
-            src="/assets/generated/photo-placeholder-2.dim_300x380.jpg"
+            src="/assets/uploads/IMG_20250716_144735-3.jpg"
             label="🦋 Jashan's Photo 2 🦋"
             stickers={["🦋", "💖", "🌟", "🎀"]}
             frameRef={frame2Ref}
@@ -651,7 +651,7 @@ export default function App() {
           />
 
           <PhotoFrame
-            src="/assets/generated/photo-placeholder-3.dim_300x380.jpg"
+            src="/assets/uploads/Picsart_26-01-04_11-17-46-706-4.jpg"
             label="🌺 Jashan's Photo 3 🌺"
             stickers={["🌺", "💝", "⭐", "✨"]}
             frameRef={frame3Ref}
